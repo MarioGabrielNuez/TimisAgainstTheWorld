@@ -6,6 +6,7 @@ public class LogicaPies : MonoBehaviour
 {
     // Start is called before the first frame update
     public CharacterMovement logicaPersonaje1;
+
     void Start()
     {
         
